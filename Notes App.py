@@ -161,7 +161,7 @@ def removenote(filepath):
     else:
         print("\nInvalid input. Please try again.")
 
-#
+
 def menu(file):
     print("\nWelcome to Notes++\n")
     print("1. Add a new note")
